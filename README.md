@@ -1,1 +1,1 @@
-# Online-Theatre-Ticket-Booking-using-C
+# Theatre-Ticket-Booking-using-C language
